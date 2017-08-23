@@ -1,2 +1,19 @@
-# SANDBOX-Personal-work
-covering the web application with modular code upon node.js, gulp.js, sass, HTML5, javascript. ECMA6
+# eComm-FED-Sandbox
+FED build process
+
+## Requirements
+- [nodejs](http://nodejs.org/) and [Gulp](http://gulpjs.com/)
+
+## Setup
+#### 1. Install gulp globally:
+```sh
+$ npm install --global gulp
+```
+#### 2. Install node packages in project directory:
+```sh
+$ npm install
+```
+## Start Local Server
+```sh
+$ gulp
+```
